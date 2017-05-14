@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9e065fd78c0d45c4fb96943cb2bfe51a
+timeCreated: 1494359047
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Charlie: {fileID: 1338906480962024, guid: 3d1649b9e9f1ec04e92557cebe5a5e29, type: 2}
+  - Princess: {fileID: 1387633959762926, guid: 776462c09b0ca77469b6f9a9fc2ae845, type: 2}
+  - Dairy: {fileID: 1263630278770450, guid: cc624a52522be6646ac8b038c003643b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
